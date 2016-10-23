@@ -1,0 +1,13 @@
+{
+  "name": "all-envs-config",
+  "authors": [
+    "Zinkerz"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src",
+    "gulp"
+  ]
+}
