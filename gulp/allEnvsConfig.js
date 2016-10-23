@@ -4,7 +4,7 @@ var conf = require('./conf');
 
 gulp.task('allEnvsConfig', function () {
     gulp.src('src/envs/**/*.json')
-        .pipe(jsoncombine("allEnvsConfig.json", function (allEnvStreeam) {
+        .pipe(jsoncombine("allEnvsConfig.json", function (allEnvStream) {
             var allEnvConfig = {
                 ENV: {
                     dev: {},
@@ -12,7 +12,7 @@ gulp.task('allEnvsConfig', function () {
                 }
             };
 
-            var keys = Object.keys(allEnvStreeam);
+            var keys = Object.keys(allEnvStream);
             var allApps = conf.apps;
             var appRegex = /.+(?=\\)/;
 
@@ -21,8 +21,8 @@ gulp.task('allEnvsConfig', function () {
                 var appName = Array.isArray(result) ? result[0] : '';
                 if (allApps[appName] && allApps[appName] !== null) {
                     var appKey = allApps[appName];
-                    allEnvConfig.ENV.dev[appKey] = allEnvStreeam[keys[i]].dev.ENV;
-                    allEnvConfig.ENV.prod[appKey] = allEnvStreeam[keys[i]].prod.ENV;
+                    allEnvConfig.ENV.dev[appKey] = allEnvStream[keys[i]].dev.ENV;
+                    allEnvConfig.ENV.prod[appKey] = [keys[i]].prod.ENV;
                 }
             }
 
