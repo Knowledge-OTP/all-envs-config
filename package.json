@@ -6,6 +6,9 @@
   },
   "dependencies": {
     "angular": "^1.5.8",
+    "gulp-concat-json": "^1.0.0",
+    "gulp-json-concat": "0.0.5",
+    "gulp-jsoncombine": "^1.0.3",
     "wrench": "^1.5.9"
   }
 }

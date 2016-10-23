@@ -7,7 +7,6 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "src",
-    "gulp"
+    "src"
   ]
 }

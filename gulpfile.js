@@ -11,6 +11,6 @@ wrench.readdirSyncRecursive('./gulp').filter(function(file) {
     require('./gulp/' + file);
 });
 
-gulp.task('dist',['copyEnvs'], function () {
+gulp.task('dist',['copyEnvs', 'allEnvsConfig'], function () {
 
 });
