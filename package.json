@@ -1,0 +1,11 @@
+{
+  "name": "all-envs-config",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "wrench": "^1.5.9"
+  }
+}
