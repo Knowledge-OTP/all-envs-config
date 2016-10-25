@@ -22,7 +22,7 @@ gulp.task('allEnvsConfig', function () {
                 if (allApps[appName] && allApps[appName] !== null) {
                     var appKey = allApps[appName];
                     allEnvConfig.ENV.dev[appKey] = allEnvStream[keys[i]].dev.ENV;
-                    allEnvConfig.ENV.prod[appKey] = [keys[i]].prod.ENV;
+                    allEnvConfig.ENV.prod[appKey] = allEnvStream[keys[i]].prod.ENV;
                 }
             }
 
