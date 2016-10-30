@@ -6,7 +6,7 @@ gulp.task('allEnvsConfig', function () {
     gulp.src('src/envs/**/*.json')
         .pipe(jsoncombine("allEnvsConfig.json", function (allEnvStream) {
             var allEnvConfig = {
-                ENV: {
+                AllEnvs: {
                     dev: {},
                     prod: {}
                 }
@@ -21,8 +21,8 @@ gulp.task('allEnvsConfig', function () {
                 var appName = Array.isArray(result) ? result[0] : '';
                 if (allApps[appName] && allApps[appName] !== null) {
                     var appKey = allApps[appName];
-                    allEnvConfig.ENV.dev[appKey] = allEnvStream[keys[i]].dev.ENV;
-                    allEnvConfig.ENV.prod[appKey] = allEnvStream[keys[i]].prod.ENV;
+                    allEnvConfig.AllEnvs.dev[appKey] = allEnvStream[keys[i]].dev.ENV;
+                    allEnvConfig.AllEnvs.prod[appKey] = allEnvStream[keys[i]].prod.ENV;
                 }
             }
 
