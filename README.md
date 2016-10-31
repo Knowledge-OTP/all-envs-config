@@ -15,9 +15,9 @@
  /src
      /envs
         /appName1
-            ENV.json
+            env.json
         /appName2
-            ENV.json 
+            env.json 
         .
         .
         .
