@@ -1,6 +1,8 @@
 var gulp = require('gulp');
 var jsoncombine = require("gulp-jsoncombine");
 var conf = require('./conf');
+var gutil = require('gulp-util');
+var path = require('path');
 
 gulp.task('allEnvsConfig', function () {
     gulp.src('src/envs/**/*.json')
@@ -17,8 +19,7 @@ gulp.task('allEnvsConfig', function () {
             var appRegex = /.+(?=\\)/;
 
             for (var i = 0; i < keys.length; i++) {
-                var result = appRegex.exec(keys[i]);
-                var appName = Array.isArray(result) ? result[0] : '';
+                var appName =  path.parse(keys[i]).dir;
                 if (allApps[appName] && allApps[appName] !== null) {
                     var appKey = allApps[appName];
                     allEnvConfig.AllEnvs.dev[appKey] = allEnvStream[keys[i]].dev.ENV;
