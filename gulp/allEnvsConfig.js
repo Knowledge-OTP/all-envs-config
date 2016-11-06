@@ -16,8 +16,7 @@ gulp.task('allEnvsConfig', function () {
 
             var keys = Object.keys(allEnvStream);
             var allApps = conf.apps;
-            var appRegex = /.+(?=\\)/;
-
+            
             for (var i = 0; i < keys.length; i++) {
                 var appName =  path.parse(keys[i]).dir;
                 if (allApps[appName] && allApps[appName] !== null) {
