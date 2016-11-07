@@ -10,11 +10,12 @@ var gutil = require('gulp-util');
 
 
 exports.apps = {
-    act: "ACT",
-    sat: "SAT",
-    toefl: "TOEFL",
-    actDashboard:"ACT_DASHBOARD",
-    satDashboard:"SAT_DASHBOARD"
+    'act': "ACT",
+    'act-dashboard' :"ACT_DASHBOARD",
+    'sat': "SAT",
+    'sat-dashboard':"SAT_DASHBOARD",
+    'toefl': "TOEFL",
+    'toefl-dashboard': "TOEFL_DASHBOARD"
 };
 
 exports.errorHandler = function (title, quit) {

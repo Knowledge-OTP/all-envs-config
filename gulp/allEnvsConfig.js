@@ -19,10 +19,15 @@ gulp.task('allEnvsConfig', function () {
             
             for (var i = 0; i < keys.length; i++) {
                 var appName =  path.parse(keys[i]).dir;
+                // gutil.log('appName=' + appName);
                 if (allApps[appName] && allApps[appName] !== null) {
                     var appKey = allApps[appName];
+                    // gutil.log('appKey='+ appKey);
                     allEnvConfig.AllEnvs.dev[appKey] = allEnvStream[keys[i]].dev.ENV;
                     allEnvConfig.AllEnvs.prod[appKey] = allEnvStream[keys[i]].prod.ENV;
+                }
+                else{
+                    gutil.log('appKey is not configured !!')
                 }
             }
 

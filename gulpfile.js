@@ -1,5 +1,6 @@
-var gulp = require('gulp');
-var wrench = require('wrench');
+var gulp 	= require('gulp');
+var wrench 	= require('wrench');
+var del     = require('del');
 
 /**
  *  This will load all js or coffee files in the gulp directory
@@ -11,4 +12,11 @@ wrench.readdirSyncRecursive('./gulp').filter(function(file) {
     require('./gulp/' + file);
 });
 
-gulp.task('dist',['copyEnvs', 'allEnvsConfig']);
+gulp.task('dist',['clean:dist','copyEnvs', 'allEnvsConfig']);
+
+
+gulp.task('clean:dist', function () {
+  return del([
+    'dist/**/*',
+    ]);
+});  
