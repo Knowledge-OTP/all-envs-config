@@ -12,7 +12,9 @@ var gutil = require('gulp-util');
 exports.apps = {
     act: "ACT",
     sat: "SAT",
-    toefl: "TOEFL"
+    toefl: "TOEFL",
+    actDashboard:"ACT_DASHBOARD",
+    satDashboard:"SAT_DASHBOARD"
 };
 
 exports.errorHandler = function (title, quit) {
