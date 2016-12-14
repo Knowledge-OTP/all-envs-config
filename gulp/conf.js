@@ -15,7 +15,10 @@ exports.apps = {
     'sat': "SAT",
     'sat-educator':"SAT_DASHBOARD",
     'toefl': "TOEFL",
-    'toefl-educator': "TOEFL_DASHBOARD"
+    'toefl-educator': "TOEFL_DASHBOARD",
+    'satsm': "SATSM",
+    'satsm-educator':"SATSM_DASHBOARD",
+
 };
 
 exports.errorHandler = function (title, quit) {
