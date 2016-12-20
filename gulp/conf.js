@@ -17,7 +17,7 @@ exports.apps = {
     'toefl': "TOEFL",
     'toefl-educator': "TOEFL_DASHBOARD",
     'satsm': "SATSM",
-    'satsm-educator':"SATSM_DASHBOARD",
+    'satsm-educator':"SATSM_DASHBOARD"
 
 };
 
