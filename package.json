@@ -1,6 +1,6 @@
 {
   "name": "all-envs-config",
-  "version": "1.0.0",
+  "version": "0.0.8",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
