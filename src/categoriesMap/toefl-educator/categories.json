@@ -4,7 +4,7 @@
         "name": "Reading",
         "shortName": "R",
         "parentId": null,
-        "typeId": 6,
+        "typeId": 101,
         "instruction": null,
         "weight": null
     }, {
@@ -12,7 +12,7 @@
         "name": "Writing",
         "shortName": "W",
         "parentId": null,
-        "typeId": 6,
+        "typeId": 101,
         "instruction": null,
         "weight": null
     }, {
@@ -20,7 +20,7 @@
         "name": "Listening",
         "shortName": "L",
         "parentId": null,
-        "typeId": 6,
+        "typeId": 101,
         "instruction": null,
         "weight": null
     }, {
@@ -28,7 +28,7 @@
         "name": "Speaking",
         "shortName": "S",
         "parentId": null,
-        "typeId": 6,
+        "typeId": 101,
         "instruction": null,
         "weight": null
     }, {
@@ -36,7 +36,7 @@
         "name": "Basic Comprehension",
         "shortName": "BC",
         "parentId": 3,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -44,7 +44,7 @@
         "name": "Pragmatic Understanding",
         "shortName": "PU",
         "parentId": 3,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -52,7 +52,7 @@
         "name": "Connecting Information",
         "shortName": "CI",
         "parentId": 3,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -60,7 +60,7 @@
         "name": "Independent Speaking",
         "shortName": "IS",
         "parentId": 4,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -68,7 +68,7 @@
         "name": "Integrated Read/Listen/Speak",
         "shortName": "IR",
         "parentId": 4,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -76,31 +76,7 @@
         "name": "Integrated Listen/Speak",
         "shortName": "IL",
         "parentId": 4,
-        "typeId": 6,
-        "instruction": null,
-        "weight": null
-    }, {
-        "id": 11,
-        "name": "Null",
-        "shortName": "0000",
-        "parentId": null,
-        "typeId": 7,
-        "instruction": null,
-        "weight": null
-    }, {
-        "id": 12,
-        "name": "Null",
-        "shortName": "0000",
-        "parentId": null,
-        "typeId": 7,
-        "instruction": null,
-        "weight": null
-    }, {
-        "id": 13,
-        "name": "Null",
-        "shortName": "0000",
-        "parentId": null,
-        "typeId": 7,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -108,7 +84,7 @@
         "name": "Integrated Writing",
         "shortName": "IT",
         "parentId": 2,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -116,7 +92,7 @@
         "name": "Independent Writing",
         "shortName": "ID",
         "parentId": 2,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -124,7 +100,7 @@
         "name": "Text Comprehension",
         "shortName": "TC",
         "parentId": 1,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -132,7 +108,7 @@
         "name": "Text Sensitivity",
         "shortName": "TS",
         "parentId": 1,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -140,7 +116,7 @@
         "name": "Reading to Learn",
         "shortName": "RL",
         "parentId": 1,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -148,7 +124,7 @@
         "name": "Gist-Content",
         "shortName": "GCON",
         "parentId": 5,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -156,7 +132,7 @@
         "name": "Gist-Purpose",
         "shortName": "GPUR",
         "parentId": 5,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -164,7 +140,7 @@
         "name": "Detail",
         "shortName": "DETL",
         "parentId": 5,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -172,7 +148,7 @@
         "name": "Understanding the Function of What is Said",
         "shortName": "UFWS",
         "parentId": 6,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -180,7 +156,7 @@
         "name": "Understanding the Speakers Attitude",
         "shortName": "USPA",
         "parentId": 6,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -188,7 +164,7 @@
         "name": "Understanding Organization",
         "shortName": "UORG ",
         "parentId": 7,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -196,7 +172,7 @@
         "name": "Connecting Content",
         "shortName": "CCON ",
         "parentId": 7,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -204,7 +180,7 @@
         "name": "Making Inferences",
         "shortName": "MINF",
         "parentId": 7,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -212,7 +188,7 @@
         "name": "Factual Information",
         "shortName": "FACT",
         "parentId": 16,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -220,7 +196,7 @@
         "name": "Negative Factual Information",
         "shortName": "NEGA",
         "parentId": 16,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -228,7 +204,7 @@
         "name": "Inference",
         "shortName": "INFE",
         "parentId": 17,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -236,7 +212,7 @@
         "name": "Rhetorical Purpose",
         "shortName": "RHET",
         "parentId": 17,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -244,7 +220,7 @@
         "name": "Vocabulary Question",
         "shortName": "VOCA",
         "parentId": 16,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -252,7 +228,7 @@
         "name": "Reference",
         "shortName": "REFE",
         "parentId": 16,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -260,7 +236,7 @@
         "name": "Sentence Simplification",
         "shortName": "SENT",
         "parentId": 17,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -268,7 +244,7 @@
         "name": "Inserted Text",
         "shortName": "INSE",
         "parentId": 16,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -276,7 +252,7 @@
         "name": "Prose Summary",
         "shortName": "PROS",
         "parentId": 18,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -284,7 +260,7 @@
         "name": "Fill in the Table",
         "shortName": "FILL",
         "parentId": 18,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -292,7 +268,7 @@
         "name": "Independent Writing Task",
         "shortName": "INDP",
         "parentId": 15,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -300,15 +276,7 @@
         "name": "Integrated Writing Task",
         "shortName": "INTG",
         "parentId": 14,
-        "typeId": 7,
-        "instruction": null,
-        "weight": null
-    }, {
-        "id": 126,
-        "name": "Null",
-        "shortName": "0000",
-        "parentId": null,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -316,7 +284,7 @@
         "name": "Independent Speaking Q1",
         "shortName": "ISQ1",
         "parentId": 8,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -324,7 +292,7 @@
         "name": "Independent Speaking Q2",
         "shortName": "ISQ2",
         "parentId": 8,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -332,7 +300,7 @@
         "name": "Integrated Read/Listen/Speak Q3",
         "shortName": "IRQ3",
         "parentId": 9,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -340,7 +308,7 @@
         "name": "Integrated Read/Listen/Speak Q4",
         "shortName": "IRQ4",
         "parentId": 9,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -348,7 +316,7 @@
         "name": "Integrated Listen/Speak Q5",
         "shortName": "ILQ5",
         "parentId": 10,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -356,7 +324,7 @@
         "name": "Integrated Listen/Speak Q6",
         "shortName": "ILQ6",
         "parentId": 10,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -364,7 +332,7 @@
         "name": "Grammar",
         "shortName": "GR",
         "parentId": 2,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -372,7 +340,7 @@
         "name": "Style",
         "shortName": "ST",
         "parentId": 2,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -380,7 +348,7 @@
         "name": "Subject Verb",
         "shortName": "SUBV",
         "parentId": 133,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -388,7 +356,7 @@
         "name": "Verb Tense",
         "shortName": "TNSE",
         "parentId": 133,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -396,7 +364,7 @@
         "name": "Adjectives",
         "shortName": "ADJS",
         "parentId": 133,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -404,7 +372,7 @@
         "name": "Prepostions and Idioms",
         "shortName": "PREP",
         "parentId": 133,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -412,7 +380,7 @@
         "name": "Logical Comparisons",
         "shortName": "LCOM",
         "parentId": 133,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -420,7 +388,7 @@
         "name": "Noun Agreement",
         "shortName": "NOUN",
         "parentId": 133,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -428,7 +396,7 @@
         "name": "Comparatives/Superlatives",
         "shortName": "SUPR",
         "parentId": 133,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -436,7 +404,7 @@
         "name": "Relative Pronouns",
         "shortName": "RELP",
         "parentId": 133,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -444,7 +412,7 @@
         "name": "Conjunctions",
         "shortName": "CONJ",
         "parentId": 133,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -452,7 +420,7 @@
         "name": "Sentences/Fragments",
         "shortName": "SENT",
         "parentId": 134,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -460,7 +428,7 @@
         "name": "Comma Splices",
         "shortName": "CMMA",
         "parentId": 134,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -468,7 +436,7 @@
         "name": "Gerunds/Wordiness",
         "shortName": "GRND",
         "parentId": 134,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -476,7 +444,7 @@
         "name": "Passive Voice",
         "shortName": "PASS",
         "parentId": 134,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -484,7 +452,7 @@
         "name": "Paragraph Improvement",
         "shortName": "PI",
         "parentId": 2,
-        "typeId": 6,
+        "typeId": 102,
         "instruction": null,
         "weight": null
     }, {
@@ -492,7 +460,7 @@
         "name": "Sentence Placement",
         "shortName": "SNTP",
         "parentId": 148,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }, {
@@ -500,7 +468,7 @@
         "name": "Misplaced Modifiers",
         "shortName": "MMOD",
         "parentId": 134,
-        "typeId": 7,
+        "typeId": 103,
         "instruction": null,
         "weight": null
     }]
