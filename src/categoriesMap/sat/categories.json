@@ -1484,6 +1484,39 @@
       "weight": null,
       "subScore1Id": null,
       "subScore2Id": null
+    },
+    {
+      "id": 190,
+      "name": "Systems of Inequalities",
+      "shortName": "SYSI",
+      "parentId": 13,
+      "typeId": 104,
+      "instruction": "",
+      "weight": null,
+      "subScore1Id": null,
+      "subScore2Id": null
+    },
+    {
+      "id": 191,
+      "name": "Solve In Terms Of",
+      "shortName": "SOIT",
+      "parentId": 17,
+      "typeId": 104,
+      "instruction": "",
+      "weight": null,
+      "subScore1Id": null,
+      "subScore2Id": null
+    },
+    {
+      "id": 192,
+      "name": "Mirroring Polynomials",
+      "shortName": "MIRR",
+      "parentId": 17,
+      "typeId": 104,
+      "instruction": "",
+      "weight": null,
+      "subScore1Id": null,
+      "subScore2Id": null
     }
   ]
 }
