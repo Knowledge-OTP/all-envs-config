@@ -100,96 +100,6 @@
       "weight": null
     },
     {
-      "id": 140,
-      "name": "Comprehension",
-      "shortName": "SC",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Social and Natural Science",
-      "weight": null
-    },
-    {
-      "id": 141,
-      "name": "Purpose",
-      "shortName": "SG",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 142,
-      "name": "Vocabulary",
-      "shortName": "SV",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 143,
-      "name": "Inference",
-      "shortName": "SL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 144,
-      "name": "Tone",
-      "shortName": "ST",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 149,
-      "name": "Scientific Data",
-      "shortName": "DD",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 150,
-      "name": "Scientific Logic",
-      "shortName": "LD",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 151,
-      "name": "Numbers and Operations",
-      "shortName": "NO",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 152,
-      "name": "Coordinate Geometry",
-      "shortName": "CG",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 153,
-      "name": "Polygons + Plane Geometry",
-      "shortName": "PG",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
       "id": 154,
       "name": "Writing Scoring",
       "shortName": "WS",
@@ -289,33 +199,6 @@
       "weight": null
     },
     {
-      "id": 165,
-      "name": "To Delete",
-      "shortName": "DEL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 166,
-      "name": "To Delete",
-      "shortName": "DEL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 167,
-      "name": "To Delete",
-      "shortName": "DEL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
       "id": 168,
       "name": "Conjunction",
       "shortName": "CONJ",
@@ -388,33 +271,6 @@
       "weight": null
     },
     {
-      "id": 176,
-      "name": "To Delete",
-      "shortName": "DEL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 177,
-      "name": "To Delete",
-      "shortName": "DEL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 178,
-      "name": "To Delete",
-      "shortName": "DEL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
       "id": 179,
       "name": "Concision",
       "shortName": "CONC",
@@ -430,123 +286,6 @@
       "parentId": 138,
       "typeId": 104,
       "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 182,
-      "name": "Factual Information",
-      "shortName": "FASN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 183,
-      "name": "Rephrasing",
-      "shortName": "RESN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 184,
-      "name": "List",
-      "shortName": "LISN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 185,
-      "name": "Except/Not",
-      "shortName": "EXSN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 186,
-      "name": "Chronology",
-      "shortName": "CHSN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 187,
-      "name": "Paraphrasing",
-      "shortName": "PASN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 188,
-      "name": "Main Idea",
-      "shortName": "MASN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 189,
-      "name": "Primary Purpose",
-      "shortName": "PRSN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 190,
-      "name": "Supporting Evidence",
-      "shortName": "SUSN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 191,
-      "name": "Vocabulary in Context",
-      "shortName": "VCSN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 192,
-      "name": "Logical Inference without Dates",
-      "shortName": "LOSN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 193,
-      "name": "Logical Inference with Dates",
-      "shortName": "DASN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
-      "weight": null
-    },
-    {
-      "id": 194,
-      "name": "Tone",
-      "shortName": "TOSN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Science/Natural Science",
       "weight": null
     },
     {
@@ -1153,51 +892,6 @@
       "weight": null
     },
     {
-      "id": 263,
-      "name": "Intermediate Algebra and Coordinate Geometry",
-      "shortName": "AC",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 264,
-      "name": "Elementary Algebra",
-      "shortName": "PA",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 265,
-      "name": "Plane Geometry and Trigonometry",
-      "shortName": "PT",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 266,
-      "name": "Arts and Literature",
-      "shortName": "AL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 267,
-      "name": "Social and Natural Science",
-      "shortName": "SN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
       "id": 268,
       "name": "Data Analysis",
       "shortName": "DA",
@@ -1229,114 +923,6 @@
       "name": "Essay",
       "shortName": "ES",
       "parentId": 2,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 272,
-      "name": "Intermediate Algebra",
-      "shortName": "IA",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 273,
-      "name": "Solving Equations / Word Problems",
-      "shortName": "SW",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 274,
-      "name": "Introductory Trigonometry",
-      "shortName": "TR",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 275,
-      "name": "Arts Comprehension",
-      "shortName": "AC",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 276,
-      "name": "Arts Purpose",
-      "shortName": "AP",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 277,
-      "name": "Arts Vocabulary",
-      "shortName": "AV",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 278,
-      "name": "Arts Inference",
-      "shortName": "AI",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 279,
-      "name": "Arts Tone",
-      "shortName": "AT",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 280,
-      "name": "Scientific Data in Research Summaries",
-      "shortName": "DS",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 281,
-      "name": "Scientific Logic in Research Summaries",
-      "shortName": "LS",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 282,
-      "name": "Scientific Data for Conflicting Scientific Viewpoints",
-      "shortName": "DV",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 283,
-      "name": "Scientific Logic in Conflicting Scientific Viewpoints",
-      "shortName": "LV",
-      "parentId": 412,
       "typeId": 102,
       "instruction": null,
       "weight": null
@@ -1464,15 +1050,6 @@
       "shortName": "EXCV",
       "parentId": 408,
       "typeId": 104,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 298,
-      "name": "Applying New Evidence for Conflicting Scientific Viewpoints",
-      "shortName": "AECV",
-      "parentId": 409,
-      "typeId": 102,
       "instruction": null,
       "weight": null
     },
@@ -1618,123 +1195,6 @@
       "parentId": 304,
       "typeId": 104,
       "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 316,
-      "name": "Factual Information",
-      "shortName": "FAAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
-      "weight": null
-    },
-    {
-      "id": 317,
-      "name": "Rephrasing",
-      "shortName": "REAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
-      "weight": null
-    },
-    {
-      "id": 318,
-      "name": "List",
-      "shortName": "LIAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
-      "weight": null
-    },
-    {
-      "id": 319,
-      "name": "Except/Not",
-      "shortName": "EXAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
-      "weight": null
-    },
-    {
-      "id": 320,
-      "name": "Chronology",
-      "shortName": "CHAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
-      "weight": null
-    },
-    {
-      "id": 321,
-      "name": "Paraphrasing",
-      "shortName": "PAAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
-      "weight": null
-    },
-    {
-      "id": 322,
-      "name": "Main Idea",
-      "shortName": "MAAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
-      "weight": null
-    },
-    {
-      "id": 323,
-      "name": "Primary Purpose",
-      "shortName": "PRAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
-      "weight": null
-    },
-    {
-      "id": 324,
-      "name": "Supporting Evidence",
-      "shortName": "SUAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
-      "weight": null
-    },
-    {
-      "id": 325,
-      "name": "Vocabulary in Context",
-      "shortName": "VCAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
-      "weight": null
-    },
-    {
-      "id": 326,
-      "name": "Logical Inference without a Date",
-      "shortName": "LOAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
-      "weight": null
-    },
-    {
-      "id": 327,
-      "name": "Logical Inference with a Date",
-      "shortName": "DAAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
-      "weight": null
-    },
-    {
-      "id": 328,
-      "name": "Tone",
-      "shortName": "TOAL",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": "Arts and Literature",
       "weight": null
     },
     {
@@ -1954,15 +1414,6 @@
       "weight": null
     },
     {
-      "id": 354,
-      "name": "Linear Inequalities",
-      "shortName": "LIIN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
       "id": 355,
       "name": "Paremetric Equations",
       "shortName": "PARM",
@@ -1986,42 +1437,6 @@
       "shortName": "FPLY",
       "parentId": 366,
       "typeId": 104,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 358,
-      "name": "Quadratic Inequalities",
-      "shortName": "QDIN",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 359,
-      "name": "Statistical Analysis",
-      "shortName": "STAT",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 360,
-      "name": "Systems with Quadratics",
-      "shortName": "SYQD",
-      "parentId": 412,
-      "typeId": 102,
-      "instruction": null,
-      "weight": null
-    },
-    {
-      "id": 361,
-      "name": "Trig Graphs",
-      "shortName": "TRGR",
-      "parentId": 412,
-      "typeId": 102,
       "instruction": null,
       "weight": null
     },
@@ -2467,15 +1882,6 @@
       "weight": null
     },
     {
-      "id": 412,
-      "name": "Temp To Delete",
-      "shortName": "1234",
-      "parentId": null,
-      "typeId": 101,
-      "instruction": null,
-      "weight": null
-    },
-    {
       "id": 413,
       "name": "Trig Graphs",
       "shortName": "TRGR",
@@ -2504,7 +1910,7 @@
     },
     {
       "id": 416,
-      "name": "Applying New Evidence",
+      "name": "Applying New Evidence for Conflicting Scientific Viewpoints",
       "shortName": "AECV",
       "parentId": 409,
       "typeId": 104,
