@@ -481,7 +481,7 @@
         "subScore2Id": null
     }, {
         "id": 57,
-        "name": "Sequences and Series",
+        "name": "Sequences",
         "shortName": "SEQS1",
         "parentId": 15,
         "typeId": 103,
@@ -861,7 +861,7 @@
         "subScore2Id": 3
     }, {
         "id": 95,
-        "name": "Sequences and Series",
+        "name": "Sequences",
         "shortName": "SEQS2",
         "parentId": 21,
         "typeId": 103,
@@ -939,5 +939,235 @@
         "weight": null,
         "subScore1Id": null,
         "subScore2Id": 3
+    }, {
+        "id": 103,
+        "name": "Discontinuities and Asymptotes",
+        "shortName": "DISC1",
+        "parentId": 11,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": 3
+    }, {
+        "id": 104,
+        "name": "Discontinuities and Asymptotes",
+        "shortName": "DISC2",
+        "parentId": 17,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": 3
+    }, {
+        "id": 105,
+        "name": "Quadratic Inequalities and Systems",
+        "shortName": "QDIS1",
+        "parentId": 11,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": 4
+    }, {
+        "id": 106,
+        "name": "Quadratic Inequalities and Systems",
+        "shortName": "QDIS2",
+        "parentId": 17,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": 4
+    }, {
+        "id": 107,
+        "name": "Polynomial Division",
+        "shortName": "PDIV1",
+        "parentId": 12,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": 4
+    }, {
+        "id": 108,
+        "name": "Polynomial Division",
+        "shortName": "PDIV2",
+        "parentId": 18,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": 4
+    }, {
+        "id": 109,
+        "name": "Limits",
+        "shortName": "LIMT1",
+        "parentId": 12,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": 4
+    }, {
+        "id": 110,
+        "name": "Limits",
+        "shortName": "LIMT2",
+        "parentId": 18,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": 4
+    }, {
+        "id": 111,
+        "name": "Binomial Expansion",
+        "shortName": "BINO1",
+        "parentId": 12,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": 4
+    }, {
+        "id": 112,
+        "name": "Binomial Expansion",
+        "shortName": "BINO2",
+        "parentId": 18,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": 4
+    }, {
+        "id": 113,
+        "name": "Polar Form",
+        "shortName": "POLF1",
+        "parentId": 12,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": 4
+    }, {
+        "id": 114,
+        "name": "Polar Form",
+        "shortName": "POLF2",
+        "parentId": 18,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": 4
+    }, {
+        "id": 117,
+        "name": "Probability with Combinations and Permutations",
+        "shortName": "PRCP1",
+        "parentId": 13,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": null
+    }, {
+        "id": 118,
+        "name": "Probability with Combinations and Permutations",
+        "shortName": "PRCP2",
+        "parentId": 19,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": null
+    }, {
+        "id": 123,
+        "name": "Dimension Shifts",
+        "shortName": "DIMS1",
+        "parentId": 14,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": null
+    }, {
+        "id": 124,
+        "name": "Dimension Shifts",
+        "shortName": "DIMS2",
+        "parentId": 20,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": null
+    }, {
+        "id": 125,
+        "name": "X-Y-Z-Plane",
+        "shortName": "XYZP1",
+        "parentId": 14,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": null
+    }, {
+        "id": 126,
+        "name": "X-Y-Z-Plane",
+        "shortName": "XYZP2",
+        "parentId": 20,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": null
+    }, {
+        "id": 127,
+        "name": "Series",
+        "shortName": "SERS1",
+        "parentId": 15,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": null
+    }, {
+        "id": 128,
+        "name": "Series",
+        "shortName": "SERS2",
+        "parentId": 21,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": null
+    }, {
+        "id": 129,
+        "name": "Trigonometry- Equivalent Expressions and Laws",
+        "shortName": "TRGE1",
+        "parentId": 16,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": null
+    }, {
+        "id": 130,
+        "name": "Trigonometry- Equivalent Expressions and Laws",
+        "shortName": "TRGE2",
+        "parentId": 22,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": null
+    }, {
+        "id": 131,
+        "name": "Coordinate Geometry with Circles",
+        "shortName": "CCIR2",
+        "parentId": 20,
+        "typeId": 103,
+        "instruction": null,
+        "weight": null,
+        "subScore1Id": null,
+        "subScore2Id": null
     }]
 }
