@@ -2012,6 +2012,28 @@
       "weight": null,
       "subScore1Id": null,
       "subScore2Id": null
+    },
+    {
+      "id": 238,
+      "instruction": null,
+      "name": "Phase Diagrams",
+      "parentId": 14,
+      "shortName": "PHDG",
+      "subScore1Id": null,
+      "subScore2Id": null,
+      "typeId": 104,
+      "weight": null
+    },
+    {
+      "id": 239,
+      "instruction": null,
+      "name": "Frequency Tables With Multiple Variables",
+      "parentId": 14,
+      "shortName": "FTMV",
+      "subScore1Id": null,
+      "subScore2Id": null,
+      "typeId": 104,
+      "weight": null
     }
   ]
 }
